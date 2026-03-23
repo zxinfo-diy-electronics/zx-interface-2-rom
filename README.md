@@ -1,5 +1,5 @@
 # ZX Interface 2 custom multi ROM catridge
-Another custom ROM cartridge for ZX Interface 2, supporting 256kb EPROM with manual ROM selection using switch. The 256kb EPROM can hold up to 4 16kb banks, which is selectable with a switch combination.
+Another custom ROM cartridge for ZX Interface 2, supporting 64kb EPROM with manual ROM selection using switch. The 256kb EPROM can hold up to 4 16kb banks, which is selectable with a switch combination.
 This cartridge only supports 16KB images and manual bank switch and no paging out - it behaves just as the original ROM catridges.
 
 ## Schema and PCB version 1
